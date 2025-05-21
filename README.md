@@ -1,5 +1,3 @@
-Here's the complete merged code from your screenshots:
-
 import random
 import matplotlib.pyplot as plt
 
@@ -98,5 +96,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-Let me know if you'd like this saved as a file or modified in any way.
 
